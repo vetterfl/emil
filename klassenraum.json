@@ -87,6 +87,12 @@
          "id":5,
          "name":"start",
          "opacity":0.28,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":26,
@@ -127,7 +133,7 @@
                  "id":96,
                  "properties":[
                         {
-                         "name":"collide",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
