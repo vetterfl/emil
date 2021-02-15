@@ -38,7 +38,7 @@
          "height":22,
          "id":4,
          "name":"exit",
-         "opacity":0.44,
+         "opacity":0.43,
          "properties":[
                 {
                  "name":"exitUrl",
@@ -122,6 +122,16 @@
          "spacing":0,
          "tilecount":225,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":96,
+                 "properties":[
+                        {
+                         "name":"collide",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -135,6 +145,34 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":128,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":144,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":160,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {

@@ -74,7 +74,7 @@
          "height":15,
          "id":10,
          "name":"startFromKlassenraum",
-         "opacity":0.46,
+         "opacity":0.44,
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -178,6 +178,16 @@
          "spacing":0,
          "tilecount":225,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":96,
+                 "properties":[
+                        {
+                         "name":"collide",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
