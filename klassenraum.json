@@ -50,7 +50,7 @@
          "height":20,
          "id":4,
          "name":"exit",
-         "opacity":1,
+         "opacity":0.44,
          "type":"tilelayer",
          "visible":true,
          "width":12,
@@ -90,7 +90,7 @@
         {
          "columns":15,
          "firstgid":1,
-         "image":"..\/..\/..\/Downloads\/tilesets\/building_inner-tileg.png",
+         "image":"tiles\/building_inner-tileg.png",
          "imageheight":480,
          "imagewidth":508,
          "margin":0,
@@ -103,7 +103,7 @@
         {
          "columns":16,
          "firstgid":226,
-         "image":"..\/workadventure-map-starter-kit\/tilesets_deviant_milkian_1.png",
+         "image":"tiles\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -116,7 +116,7 @@
         {
          "columns":9,
          "firstgid":482,
-         "image":"..\/rc3\/maps\/ir\/tiles\/mapUtilities.png",
+         "image":"tiles\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
